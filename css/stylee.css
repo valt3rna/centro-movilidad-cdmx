@@ -1,0 +1,19 @@
+body {
+    font-family: "chivo-mono", sans-serif;
+    background-color: bisque;
+    color: darkolivegreen;
+   
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "noto-sans", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: darkmagenta;
+}
+section {
+    width: 80%;
+    margin: 0 auto; 
+}
